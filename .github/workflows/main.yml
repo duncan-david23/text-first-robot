@@ -10,7 +10,7 @@ jobs:
         run: echo "it is time to wake up"
         
   Check-up:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest qq
     steps:
       - name: Check Up message
         run: echo "Is everything okay, i have been trying to reach out to you"
